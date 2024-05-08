@@ -46,7 +46,7 @@ https://documenter.getpostman.com/view/33389231/2sA3JJA441
 ## Figma
 https://www.figma.com/file/Ifmivq19uWHkpAEAQG3IZ3/Figma-basics?type=design&node-id=1669%3A162202&mode=design&t=AVVffBJIKCgRwYn8-1
 ## My Role
-__classes__: Technician, Services, Orders, OrderItems, Category
+__Models__: Technician, Services, Orders, OrderItem, Category
 
 __Endpoints__
 | No. | Endpoint | Description |
