@@ -47,24 +47,24 @@ https://documenter.getpostman.com/view/33389231/2sA3JJA441
 https://www.figma.com/file/Ifmivq19uWHkpAEAQG3IZ3/Figma-basics?type=design&node-id=1669%3A162202&mode=design&t=AVVffBJIKCgRwYn8-1
 ## My Role
 __Models__: 
-Technician
-Services
-Orders
-OrderItem
-Category
+- Technician
+- Services
+- Orders
+- OrderItem
+- Category
 
 __Serurity Configuration__:
-AuthCotroller
-CategoryController
-OrderController
-ProductController
-RequestController
-ServicesController
-TechnicianController
+- AuthCotroller
+- CategoryController
+- OrderController
+- ProductController
+- RequestController
+- ServicesController
+- TechnicianController
 
 __Junit Testing__:
-CategoryControllerTest
-CategoryServiceTest
+- CategoryControllerTest
+- CategoryServiceTest
 
 | No. | Endpoint | Description |
 | --- | --- | --- |
