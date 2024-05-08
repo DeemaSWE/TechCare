@@ -66,6 +66,7 @@ __Junit Testing__:
 - CategoryControllerTest
 - CategoryServiceTest
 
+__Endpoints:__
 | No. | Endpoint | Description |
 | --- | --- | --- |
 | 1 | `POST /api/v1/order/create` | Customer makes an order |
