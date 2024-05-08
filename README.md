@@ -98,5 +98,7 @@ __Endpoints:__
 | 27 | `GET /api/v1/technician/get-all` | Admin gets all technicians |
 
 ## Class Diagram
+![Final_Class_Diagram](https://github.com/DeemaSWE/TechCare/assets/90179257/02270572-3a8b-41ac-a2fa-52392d300243)
+
 ## Use Case Diagram
 ![Final_use_case_Diagram drawio](https://github.com/DeemaSWE/test/assets/90179257/68ee24a9-0153-4db3-b50f-3689ca525b07)
